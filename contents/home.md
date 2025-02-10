@@ -1,16 +1,19 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![CfromBU](https://img.shields.io/badge/CfromBU-github-blue?logo=github)](https://github.com/CfromBU)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+#### About Me
+
+I’m a graduate student at the School of Computer Science, Beijing University of Posts and Telecommunications. My research focuses on Graph Neural Networks (GNNs) and Deep Learning. I am particularly interested in leveraging deep learning techniques to improve the processing and analysis of graph-structured data, with applications in areas like recommendation systems, social network analysis, and knowledge graphs
 
 #### Email
-sli[at]cumt.edu.cn
+[wenxuanc@bupt.edu.cn](wenxuanc@bupt.edu.cn)
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+2020–2024: Bachelor’s degree, School of Artificial Intelligence, Beijing University of Posts and Telecommunications
+
+2024–Present: Master's degree, School of Computer Science, Beijing University of Posts and Telecommunications
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Deep Learning, Graph Neural Networks.
 
